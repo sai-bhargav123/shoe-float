@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tittle{
+    font-size: 40px;
+    margin: 5px;
+    
+}
+body{
+   
+    
+}
+.article{
+    border: 5px solid black;
+   width: 750px;
+   background-color: rgb(127, 227, 252);
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+}
+
+
+.rs{
+    font-size: 25px;
+    float: left;
+}
+p{
+    margin-left: 5px;
+    font-size: 20px;
+}
+.more{
+    margin: 5px;
+}
+.ready{
+    margin-bottom: 10px;
+    clear: both;
+}
+.product{
+    margin: 10px 0 2px 5px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fr{
+    float: right;
+    font-weight: bold;
+    color: 
+    
+    
+    rgb(180, 12, 158);
+    margin-top: 2px;
+    font-size: 25px;
+}
+.order li{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.button{
+    margin: 5px 0 2px 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.button:hover{
+    background-color: white;
+    color: black;}
+ .color{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 10px;
+ }   
+ .color-red{
+    background-color: red;
+ }
+ .color-white{
+    background-color: white;
+ }
+ .color-green{
+    background-color: green;
+ }
+ .color-blue{
+    background-color: blue;
+ }
+
+ 
+ .pic{
+    margin: 5px;
+    float: left;
+ }
+ .list{
+    float: left;
+    width: 250px;
+    margin-top: 30px;
+ }
+ .lit{
+    float: right;
+    width: 210px;
+    margin-top: 30px;
+ }
